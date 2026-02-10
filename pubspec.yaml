@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  # other required packages can be included here
